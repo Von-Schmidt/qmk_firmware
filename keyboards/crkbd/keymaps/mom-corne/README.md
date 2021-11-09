@@ -1,5 +1,11 @@
 # CRKBD layout used by mom
 
+Layout is programmed to use with the czech language, but works with a normal english layout as well.
+
+It is a work in progress.
+
+Other crkbd keymaps used as inspiration.
+
 To flash the halves use:
 
 ```
