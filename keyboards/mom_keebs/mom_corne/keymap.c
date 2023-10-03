@@ -112,7 +112,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 //         rgblight_enable_noeeprom();
 //         rgblight_mode_noeeprom(1);
 //         rgblight_sethsv_noeeprom(user_config.base_hue,user_config.base_sat,user_config.base_val);
-//     // }
+//     // } 
 // }
 uint8_t val_personal = 100;
 
